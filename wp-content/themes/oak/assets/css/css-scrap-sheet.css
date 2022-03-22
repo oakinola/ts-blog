@@ -1,0 +1,60 @@
+/**
+    OAK CSS Scrop Sheet. 
+
+    Used to keep records of lovely colors etc
+    
+    LAST UPDATE:
+    ============
+
+    8 Octber 2021
+*/
+
+.good-for-texts{
+    color: #9c847b; 
+    color: #b4aca8; /* muted? */
+}
+
+.greys {
+    color: #4f4f4f; /* grey */
+    color: #44464B; /* gray */
+    color: #43464b; /* ash-gray*/
+}
+
+.light-grey-backgrounds {
+    background-color: #fafafa; /* Another nice one...off white... very subtle*/
+    background-color: #eceaea;
+    background-color: #eee;
+    background-color: #efefef;
+    background-color: #f3f1f0; /*Nice light grey background*/
+}
+
+.greens {
+    color: #8acb31; /*Lime green*/
+    color: #60C660; /*Mantis*/
+    color: #77b02a ; /*olive green */
+}
+
+.blues {
+    color: #84c0fc ; /*light blue - not quite*/
+    color: #3d84af ; /*Boston Blue*/    
+    color: #2b5e7d ; /*blue  */
+    color: #25506B ; /*Astronaut */
+    color: #2b436d ; /* */
+    color: #141E31 ; /*deep blue? */
+}
+
+.random-colors {
+    color: #F8CB64; /*some sort of yellow */
+    color: #370F1B; /*cedar */
+    color: #370F37; /*loulou */
+    color: #170F37; /*haiti */
+    color: #E0760D; /*orange */
+    color: #fd5c28; /*orange darker */
+    color: #f03c02; /*orange even darker */
+    color: #2b2320; /* close to black with a tinge of orange */
+}
+
+/*
+VERIFIED Colors used https://imagecolorpicker.com/ 
+*/
+    
